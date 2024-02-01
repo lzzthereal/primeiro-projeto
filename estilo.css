@@ -1,0 +1,145 @@
+	p {
+		color: white;
+		font-family: cursive;
+		text-align: justify;
+		font-size: 20px
+		}
+		
+	h1 {
+		color: white;
+		font-family: cursive;
+		text-align: center;
+		font-size: 70px
+		}
+		
+	h2 {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 50px
+	}
+	
+	h3 {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 50px
+	}
+	
+	h4 {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 50px
+	}
+	
+	
+	h5 {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 50px
+	}
+	
+	hr {
+	 width: 100%;
+    height: 3px;
+    background-color: white;
+	}
+	
+	body {
+		background-image: url(taylor1.jpg);
+		background-size: cover;
+		padding: 10px;
+		border: 3px white solid;
+	}
+	
+	img {
+		height: 400px;
+		width: 400px;
+		padding-left: 150px;
+		
+	}
+	
+	ul {
+		color: white;
+		font-family: cursive;
+		padding-left: 850px;
+		font-size: 30px;
+		list-style-type: none;
+		
+	}
+	
+	ol {
+	color: white;
+	font-family: cursive;
+	padding-left: 850px;
+	font-size: 30px;
+		
+	}
+	
+	
+			
+	a:link {
+		color: #ffcfec ;
+		text-decoration: none;
+			}
+	
+	a:hover {
+			color: red;
+			text-decoration: none;
+	         }
+			 
+	label {
+		color:purple;
+		font-family: cursive;
+		font-size: 30px;
+		
+		
+	}
+	
+	input {
+		font-family: cursive;
+		width: 390px;
+		border-radius: 4px;
+		padding: 10px;
+	}
+	
+	.titulo {
+		
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 30px
+		
+		
+	}
+	
+	
+	.fearless {
+		
+		background-image: url(fear.jpg);
+		background-size: cover;
+		padding: 10px;
+		border: 3px white solid;
+		
+		
+		
+	}
+	
+	.album2 {
+		
+		background-image: url(199.jpg);
+		background-size: cover;
+		padding: 10px;
+		border: 3px white solid;
+	}
+	
+	.album3 {
+		
+		background-image: url(redzada.jpg);
+		background-size: cover;
+		padding: 10px;
+		border: 3px white solid;
+	}
+	
